@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brawal24
+- 👋 Hi, I’m @KutayAydemir
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning C# and JS.
 
